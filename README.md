@@ -1,8 +1,4 @@
-# Team_15 SNS Assignment1 - End To End Messaging System Using Python
-- **Suman Mitra - 2020202018**
-- **Aditya Mahajan - 2020202019**
-- **Dipankar Saha - 2020201084**
-- **Shivam Puri - 2020201096**
+# End to End Encrypted Messaging System
 
 # Functionality
 
